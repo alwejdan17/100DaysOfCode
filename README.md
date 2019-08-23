@@ -7,3 +7,6 @@ In 100 days we will learn about python
 2.Comments 
 
 3.Variables
+
+4.Type of variables ,Convert between them ,and Generate random numbers
+
