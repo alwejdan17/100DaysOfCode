@@ -63,7 +63,6 @@ print("---- 6.Casting float to str ----\n")
 print("H is ",h,"and Type of H is :",str(type_h))
 print("H2 is ",h2,"and Type of H2 is :",str(type_h2),"\n")
 
-#----------------------------------------------------------
 
 
 
