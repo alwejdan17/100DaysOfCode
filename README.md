@@ -12,5 +12,12 @@ In 100 days we will learn about python
 
 5.Split words in String 
 
-6.Type Casting In Python
+6.Type Casting in Python
+
+7. Strings in Python 
+
+8. String functions 
+
+9. String format
+
 
