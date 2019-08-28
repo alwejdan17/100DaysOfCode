@@ -14,10 +14,10 @@ In 100 days we will learn about python
 
 6.Type Casting in Python
 
-7. Strings in Python 
+7.Strings in Python 
 
-8. String functions 
+8.String functions 
 
-9. String format
+9.String format
 
 
