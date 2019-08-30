@@ -39,7 +39,6 @@ first_n="Wejdan"
 last_n="aaa"
 print("full name : {0} , first name : {1} ,then {1} in {0} ? {2}\n".format(name,first_n,first_n in name))
 print("full name : {0} , last name : {1} ,then {1} in {0} ? {2}\n".format(name,last_n,last_n in name))
-
 #7.Bitwise Operators
 #& ,|,^ ,~,>>,<<
 print("--------7.Bitwise Operators---------\n")
